@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate on Software Engineering projects.
 
-📫 How to reach me: You can reach me on [LinkedIn](www.linkedin.com/in/hasitha-prasadini-3a2a0326a)
+📫 How to reach me: You can reach me on [LinkedIn](https://www.linkedin.com/in/hasitha-prasadini-3a2a0326a/)
 
 😄 Pronouns: hasi/prasa
 
