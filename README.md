@@ -8,7 +8,7 @@
 
 🌱 I’m currently learning MERN stack.
 
-💞️ I’m looking to collaborate on Software Engineering projects.
+💞️ I’m looking to collaborate on Web and Mobile app development projects.
 
 📫 How to reach me: You can reach me on [LinkedIn](https://www.linkedin.com/in/hasitha-prasadini-3a2a0326a/)
 
@@ -17,7 +17,7 @@
 ⚡ Fun fact: I love sharing interesting posts on Facebook.
 
 <div align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hprasadi98&" alt="Hprasadi98" /></div><br><br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hprasadi98&" alt="Hprasadi98" /></div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hprasadi98&label=Profile%20views&color=0e75b6&style=flat" alt="Hprasadi98" /> </p>
 
