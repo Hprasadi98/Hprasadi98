@@ -6,7 +6,7 @@
 
 👀 I’m interested in coding.
 
-🌱 I’m currently learning MERN stack.
+🌱 I’m currently learning .net
 
 💞️ I’m looking to collaborate on Web and Mobile app development projects.
 
@@ -56,6 +56,7 @@
 <br>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hprasadi98&show_icons=true&locale=en&layout=compact" alt="Hprasadi98" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Hprasadi98&show_icons=true&locale=en" alt="Hprasadi98" /></p>
 
 <!---
 Hprasadi98/Hprasadi98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
